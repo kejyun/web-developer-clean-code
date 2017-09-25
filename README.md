@@ -6,7 +6,7 @@
 
 | 項目  | 網址 |
 |---|---|
-|  Github Page | http://kejyun.github.io/web-developer-clean-code/  |
+|  Github Page | https://github.com/kejyun/web-developer-clean-code  |
 |  GitBook | http://kejyuntw.gitbooks.io/web-developer-clean-code/  |
 
 ### 聯絡資訊
